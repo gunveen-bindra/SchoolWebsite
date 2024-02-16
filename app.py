@@ -1,3 +1,7 @@
+# Author: Sachi and Gunveen
+# Date: 16 February, 2024
+# Description: School website developed with Python, Flask, HTML, CSS, and JavaScript, featuring SQLite3 backend for a seamless user experience.
+
 from flask import Flask, render_template
 from flask import Flask, render_template, send_file
 import sqlite3
